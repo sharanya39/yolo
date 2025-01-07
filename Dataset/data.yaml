@@ -1,0 +1,6 @@
+path: Dataset
+train: Train/images
+val: val/images
+test: Test/images
+nc: 1
+names: ['car']
