@@ -1,6 +1,6 @@
-path: Dataset
-train: Train/images
-val: val/images
-test: Test/images
+path: /home/sharanya/yolo11/Dataset
+train: /home/sharanya/yolo11/Dataset/Train/images
+val: /home/sharanya/yolo11/Dataset/val/images
+test: /home/sharanya/yolo11/Dataset/Test/images
 nc: 1
 names: ['car']
